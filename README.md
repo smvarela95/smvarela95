@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @smvarela95
+- 👋 Hi, I’m Santiago Martinez Varela
 - 👀 I’m interested in entrepreneurship, user-centric product development, web development.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 🧠 I'm currently working at Menüpp. A startup that connects restaurants and food providers.
+- 🌱 I’m currently learning web development and product management.
 - 📫 How to reach me: s.mvarela@outlook.com
-
-<!---
-smvarela95/smvarela95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
